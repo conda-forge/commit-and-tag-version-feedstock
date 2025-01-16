@@ -4,7 +4,7 @@
 
 [project]
 name = "commit-and-tag-version-feedstock"
-version = "3.44.9"
+version = "3.45.2"
 description = "Pixi configuration for conda-forge/commit-and-tag-version-feedstock"
 authors = ["@conda-forge/commit-and-tag-version"]
 channels = ["conda-forge"]
