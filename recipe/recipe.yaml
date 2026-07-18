@@ -1,5 +1,5 @@
 context:
-  version: "12.7.3"
+  version: "13.0.0"
 
 package:
   name: commit-and-tag-version
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://registry.npmjs.org/commit-and-tag-version/-/commit-and-tag-version-${{ version }}.tgz
-  sha256: 13eb17d4af1bd7f6cb1b2a4fd031cc861c64686ba4412a0a00258fb0f2d38c62
+  sha256: ea318dec134f7421421a93b45001d58538d715f70da8566e281c81440fac96b4
 
 build:
   number: 0
